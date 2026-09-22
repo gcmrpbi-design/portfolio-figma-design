@@ -1,0 +1,8 @@
+{
+  "name": "chandu-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview" },
+  "dependencies": { "@tailwindcss/postcss": "latest", "@vitejs/plugin-react": "latest", "autoprefixer": "latest", "postcss": "latest", "react": "latest", "react-dom": "latest", "tailwindcss": "latest", "vite": "latest" }
+}
